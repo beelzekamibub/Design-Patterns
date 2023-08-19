@@ -1,0 +1,15 @@
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\bin\Debug\net7.0\LiskovSubPrinciple.exe
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\bin\Debug\net7.0\LiskovSubPrinciple.deps.json
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\bin\Debug\net7.0\LiskovSubPrinciple.runtimeconfig.json
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\bin\Debug\net7.0\LiskovSubPrinciple.dll
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\bin\Debug\net7.0\LiskovSubPrinciple.pdb
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.csproj.AssemblyReference.cache
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.AssemblyInfoInputs.cache
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.AssemblyInfo.cs
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.csproj.CoreCompileInputs.cache
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.dll
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\refint\LiskovSubPrinciple.dll
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.pdb
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\LiskovSubPrinciple.genruntimeconfig.cache
+D:\Design patterns\SOLID\LiskovSubPrinciple\LiskovSubPrinciple\obj\Debug\net7.0\ref\LiskovSubPrinciple.dll
