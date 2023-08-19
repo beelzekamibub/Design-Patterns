@@ -1,0 +1,15 @@
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.exe
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.deps.json
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.dll
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.dll
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\refint\SingleResponsibilityPrinciple.dll
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+D:\Design patterns\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net7.0\ref\SingleResponsibilityPrinciple.dll

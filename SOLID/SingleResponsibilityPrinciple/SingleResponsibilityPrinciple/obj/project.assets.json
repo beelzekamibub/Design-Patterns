@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+      "projectName": "SingleResponsibilityPrinciple",
+      "projectPath": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
       "packagesPath": "C:\\Users\\chaitanya sharma\\.nuget\\packages\\",
-      "outputPath": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Design patterns\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
