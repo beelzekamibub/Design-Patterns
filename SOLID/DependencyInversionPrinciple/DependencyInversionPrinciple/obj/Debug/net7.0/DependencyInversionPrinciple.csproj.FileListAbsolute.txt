@@ -1,0 +1,15 @@
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.exe
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.deps.json
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.dll
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net7.0\DependencyInversionPrinciple.pdb
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.dll
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\refint\DependencyInversionPrinciple.dll
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.pdb
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\DependencyInversionPrinciple.genruntimeconfig.cache
+D:\Design patterns\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net7.0\ref\DependencyInversionPrinciple.dll
